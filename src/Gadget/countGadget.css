@@ -1,0 +1,33 @@
+.gadget{
+    width: 180px;
+    height: auto;
+    border: 2px solid rgb(177, 25, 25);
+    color: rgb(241, 35, 35);
+    align-content: center;
+}
+h1{
+    color: chocolate;
+}
+.display{
+    font-size: 100px;
+    text-align: center;
+}
+
+button {
+    color: white;
+    font-size: 30px;
+    width:60px;
+    margin: 0px;
+    padding: 0px;
+    display: inline-block;
+    
+  }
+  .b1 {
+      background-color: rgba(179, 6, 6, 0.726);
+  }
+  .b2 {
+    background-color: rgb(129, 98, 98);
+}
+.b3 {
+    background-color: rgb(65, 5, 5);
+}
